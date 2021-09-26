@@ -1,5 +1,6 @@
 # MultiReplacer
-A very capable Windows Grep, search, replace and data extraction tool
+A very capable Windows Grep, search, replace and data extraction tool.
+
  Programmed by Atilla YARALI.  www.atillayarali.com
 
   This program is free software: you can redistribute it and/or modify
